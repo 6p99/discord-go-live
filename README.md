@@ -183,6 +183,4 @@ account:
 
 ---
 
-## License
 
-MIT — do whatever you want with it, no warranty.
