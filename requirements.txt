@@ -1,0 +1,10 @@
+# Discord Go Live · stream.py
+#
+#   pip install -r requirements.txt
+#
+# stream.py installs anything missing by itself on the first run, but running
+# this once beforehand keeps the first start fast.
+
+websockets>=15.0        # gateway + voice websockets
+davey>=0.2.0            # DAVE end-to-end encryption (voice)
+cryptography>=42.0      # encrypted RTP / silence frames (AES-GCM)
